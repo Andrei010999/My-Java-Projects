@@ -1,0 +1,3 @@
+This is an app made with Java Swing GUI.
+You have to set a timer based on current time or a countdown, after that you choose a color, set the speed and press start.
+The app will start based on what you choosed (current time or countdown) and another panel will show the color you choosed blinking at the speed rate you selected.
